@@ -46,6 +46,9 @@ public class User {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
+
+
+
     @Column(name = "first_name", nullable = false)
     private String firstName;
 

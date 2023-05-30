@@ -14,7 +14,8 @@ public class Application {
   /**
    * The entry point of application.
    *
-   * @param args the input arguments
+   * @param args the i
+   *             nput arguments
    */
   public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);

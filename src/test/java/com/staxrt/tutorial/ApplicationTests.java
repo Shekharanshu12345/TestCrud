@@ -30,6 +30,7 @@ public class ApplicationTests {
 	public void contextLoads() {
 	}
 
+
 	@Test
 	public void testGetAllUsers() {
 		HttpHeaders headers = new HttpHeaders();

@@ -30,6 +30,8 @@ import java.util.Date;
 public class ErrorResponse {
 
   private Date timestamp;
+
+
   private String status;
   private String message;
   private String details;
